@@ -1,0 +1,2 @@
+# Global-Eating-Habits-and-Diabetes-Mortality-An-Analytical-Study
+This project explores the potential relationship between continental eating habits and diabetes mortality rates worldwide. Utilizing data scraped from three web sources, I conducted a detailed analysis that includes visualizing dietary patterns, correlating average caloric intake by continent, and examining diabetes-related death statistics.
